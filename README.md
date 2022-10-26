@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vaibha Shaharwale
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me "vaibhav.shaharwale@outlook.com"
+- 📫 Reach me via "vaibhav.shaharwale@outlook.com"
 - ✨ Connect with me on LinkedIn at "https://www.linkedin.com/in/vaibhav-shaharwale-65460b177/"
 
 <!---
