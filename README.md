@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vaibha Shaharwale
+- 👋 Hi, I’m Vaibhav Shaharwale
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning
 - 📫 Reach me via "vaibhav.shaharwale@outlook.com"
